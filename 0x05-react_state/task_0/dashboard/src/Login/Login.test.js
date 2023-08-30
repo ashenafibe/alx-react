@@ -17,13 +17,5 @@ describe('Basic React Tests - <Login />', function() {
 		expect(wrapper.exists()).toBeTruthy();
 	});
 
-	// it('Should render 2 input tags', () => {
-	// 	const wrapper = shallow(<Login />);
-	// 	expect(wrapper.find('.Login input')).toHaveLength(2);
-	// });
-
-	// it('Should render 2 label tags', () => {
-	// 	const wrapper = shallow(<Login />);
-	// 	expect(wrapper.find('.Login label')).toHaveLength(2);
-	// });
+	
 });
